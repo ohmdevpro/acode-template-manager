@@ -1,0 +1,16 @@
+{
+  "id": "bajrangcoder.template",
+  "name": "Template Manager",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "price": 20,
+  "author": {
+    "name": "Raunak Raj(bajrangCoder)",
+    "email": "bajrangcoders@gmail.com",
+    "url": "https://github.com/bajrangCoder/acode-template-manager",
+    "github": "bajrangCoder"
+  }
+}
