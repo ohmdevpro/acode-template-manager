@@ -316,6 +316,7 @@ class TemplateManager {
     
     async destroy() {
         editorManager.editor.commands.removeCommand("template-manager");
+        await fsOperation(window.DATA_STORAGE+"projects.json").delete();
     }
 }
 
