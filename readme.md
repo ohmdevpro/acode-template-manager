@@ -4,6 +4,16 @@ project templates with ease. With this plugin, you can create, view, delete, and
 
 > Note: This plugin will not works on v1.7.1(265) and below. So First update your Acode to latest version.
 
+<details>
+    <summary>
+        Change Logs
+    </summary>
+    <code><strong>v1.0.1</strong></code>
+    <ul>
+        <li>bug fixed</li>
+    </ul>
+</details>
+
 ## Features:
 - Create new templates
 - View existing templates
